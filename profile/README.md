@@ -8,13 +8,30 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+<div align="center">
+<h1>🎈W.A.P 팀빌딩 & 회원관리 플랫폼🎈</h1>
+</div>
 
-### W.A.P 임원진분들 이제 학기마다 팀빌딩 방법에 걱정하지 마세요!
+>🎈팀빌딩<br>
+✨회원관리<br>
+🎇구인구직<br>
 
-올인원 동아리 관리 시스템 가동 준비 완료
+새 학기가 다가올 때마다, 개발 동아리에서 프로젝트 팀빌딩은 가장 먼저 꿰어야 할 첫 단추입니다.<br>
+W.A.P 동아리에서는 정형화 된 빌딩 방식이 없었고, 매 학기마다 달라지는 방식에 언젠가 원활하게 진행되지 않을 수도 있습니다.<br>
+이를 해결하기 위해 팀빌딩, 회원관리, 회원들의 구인구직까지 한 번에 가능한 올인원 플랫폼을 개발했습니다!
 
-> **🎈팀빌딩
-✨회원관리
-🎇구인구직
-🎆스터디빌딩**
->
+---
+
+# Link to Use
+https://url<br>
+app_download_link
+  
+
+# Pictures
+
+
+# Contributor
+강,박,장
+
+# Tech
+~~
