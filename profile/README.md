@@ -25,8 +25,10 @@ W.A.P 동아리에서는 정형화 된 빌딩 방식이 없었고, 매 학기마
 # Link to Use
 https://url<br>
 app_download_link
-  
 
+# Link to Explain
+[Notion](https://taewon-note.notion.site/W-A-P-ec03ad1ba4e64dbf8c127e5dfce7c564?pvs=4) <br>
+[Figma](https://www.figma.com/design/Kh66RkgDpAXy195cbb5tMx/WAP-Design?node-id=19-2&t=hX9GuLA7ZJCJWrWg-0)
 # Pictures
 
 
